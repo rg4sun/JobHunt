@@ -19,6 +19,9 @@ JubHunt 提供了交互式地图模式的工作信息查询平台。
 + 打包工具：Vite
 + 云数据库：Cloud Firebase（Non-SQL）
 + 后台服务器：Node.js + Express
++ 语法规范工具：ESLint + Prettier
+
+
 
 ## 数据源
 
