@@ -1,0 +1,1137 @@
+[
+  {
+    "Location": "North East",
+    "Industry": "Primary and utilities",
+    "sum": "22"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Manufacturing",
+    "sum": "97"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Construction",
+    "sum": "55"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "38"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "80"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Transportation and storage",
+    "sum": "39"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Accommodation and food service activities",
+    "sum": "57"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Information and communication",
+    "sum": "20"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Financial and insurance activities",
+    "sum": "17"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Real estate activities",
+    "sum": "10"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "40"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Adminstative and support service activities",
+    "sum": "46"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "65"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Education",
+    "sum": "91"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Human health and social work activities",
+    "sum": "143"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "23"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Other service activities",
+    "sum": "27"
+  },
+  {
+    "Location": "North East",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "3"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "North West",
+    "Industry": "Primary and utilities",
+    "sum": "70"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Manufacturing",
+    "sum": "239"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Construction",
+    "sum": "125"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "95"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "216"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Transportation and storage",
+    "sum": "106"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Accommodation and food service activities",
+    "sum": "118"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Information and communication",
+    "sum": "54"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Financial and insurance activities",
+    "sum": "65"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Real estate activities",
+    "sum": "25"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "129"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Adminstative and support service activities",
+    "sum": "99"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "142"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Education",
+    "sum": "211"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Human health and social work activities",
+    "sum": "323"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "50"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Other service activities",
+    "sum": "69"
+  },
+  {
+    "Location": "North West",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "10"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Primary and utilities",
+    "sum": "55"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Manufacturing",
+    "sum": "231"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Construction",
+    "sum": "130"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "92"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "172"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Transportation and storage",
+    "sum": "94"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Accommodation and food service activities",
+    "sum": "117"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Information and communication",
+    "sum": "57"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Financial and insurance activities",
+    "sum": "68"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Real estate activities",
+    "sum": "20"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "122"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Adminstative and support service activities",
+    "sum": "85"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "137"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Education",
+    "sum": "204"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Human health and social work activities",
+    "sum": "262"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "46"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Other service activities",
+    "sum": "57"
+  },
+  {
+    "Location": "Yorkshire and the Humber",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "10"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Primary and utilities",
+    "sum": "67"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Manufacturing",
+    "sum": "313"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Construction",
+    "sum": "167"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "138"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "191"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Transportation and storage",
+    "sum": "137"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Accommodation and food service activities",
+    "sum": "125"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Information and communication",
+    "sum": "59"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Financial and insurance activities",
+    "sum": "48"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Real estate activities",
+    "sum": "23"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "134"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Adminstative and support service activities",
+    "sum": "95"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "109"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Education",
+    "sum": "262"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Human health and social work activities",
+    "sum": "304"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "51"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Other service activities",
+    "sum": "66"
+  },
+  {
+    "Location": "East Midlands",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "7"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Primary and utilities",
+    "sum": "76"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Manufacturing",
+    "sum": "337"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Construction",
+    "sum": "205"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "134"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "241"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Transportation and storage",
+    "sum": "157"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Accommodation and food service activities",
+    "sum": "149"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Information and communication",
+    "sum": "83"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Financial and insurance activities",
+    "sum": "75"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Real estate activities",
+    "sum": "27"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "194"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Adminstative and support service activities",
+    "sum": "123"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "161"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Education",
+    "sum": "285"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Human health and social work activities",
+    "sum": "404"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "66"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Other service activities",
+    "sum": "74"
+  },
+  {
+    "Location": "West Midlands",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "15"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Primary and utilities",
+    "sum": "66"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Manufacturing",
+    "sum": "263"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Construction",
+    "sum": "209"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "113"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "271"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Transportation and storage",
+    "sum": "156"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Accommodation and food service activities",
+    "sum": "156"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Information and communication",
+    "sum": "121"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Financial and insurance activities",
+    "sum": "77"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Real estate activities",
+    "sum": "38"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "215"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Adminstative and support service activities",
+    "sum": "143"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "165"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Education",
+    "sum": "332"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Human health and social work activities",
+    "sum": "371"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "81"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Other service activities",
+    "sum": "74"
+  },
+  {
+    "Location": "East of England",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "14"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "London",
+    "Industry": "Primary and utilities",
+    "sum": "44"
+  },
+  {
+    "Location": "London",
+    "Industry": "Manufacturing",
+    "sum": "172"
+  },
+  {
+    "Location": "London",
+    "Industry": "Construction",
+    "sum": "379"
+  },
+  {
+    "Location": "London",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "104"
+  },
+  {
+    "Location": "London",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "359"
+  },
+  {
+    "Location": "London",
+    "Industry": "Transportation and storage",
+    "sum": "277"
+  },
+  {
+    "Location": "London",
+    "Industry": "Accommodation and food service activities",
+    "sum": "255"
+  },
+  {
+    "Location": "London",
+    "Industry": "Information and communication",
+    "sum": "424"
+  },
+  {
+    "Location": "London",
+    "Industry": "Financial and insurance activities",
+    "sum": "433"
+  },
+  {
+    "Location": "London",
+    "Industry": "Real estate activities",
+    "sum": "78"
+  },
+  {
+    "Location": "London",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "665"
+  },
+  {
+    "Location": "London",
+    "Industry": "Adminstative and support service activities",
+    "sum": "299"
+  },
+  {
+    "Location": "London",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "364"
+  },
+  {
+    "Location": "London",
+    "Industry": "Education",
+    "sum": "500"
+  },
+  {
+    "Location": "London",
+    "Industry": "Human health and social work activities",
+    "sum": "563"
+  },
+  {
+    "Location": "London",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "188"
+  },
+  {
+    "Location": "London",
+    "Industry": "Other service activities",
+    "sum": "138"
+  },
+  {
+    "Location": "London",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "64"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "South East",
+    "Industry": "Primary and utilities",
+    "sum": "113"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Manufacturing",
+    "sum": "358"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Construction",
+    "sum": "328"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "174"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "387"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Transportation and storage",
+    "sum": "200"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Accommodation and food service activities",
+    "sum": "246"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Information and communication",
+    "sum": "241"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Financial and insurance activities",
+    "sum": "143"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Real estate activities",
+    "sum": "53"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "373"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Adminstative and support service activities",
+    "sum": "208"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "250"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Education",
+    "sum": "531"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Human health and social work activities",
+    "sum": "565"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "140"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Other service activities",
+    "sum": "137"
+  },
+  {
+    "Location": "South East",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "28"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "South West",
+    "Industry": "Primary and utilities",
+    "sum": "99"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Manufacturing",
+    "sum": "264"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Construction",
+    "sum": "205"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "108"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "255"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Transportation and storage",
+    "sum": "100"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Accommodation and food service activities",
+    "sum": "203"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Information and communication",
+    "sum": "87"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Financial and insurance activities",
+    "sum": "85"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Real estate activities",
+    "sum": "39"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "217"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Adminstative and support service activities",
+    "sum": "122"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "192"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Education",
+    "sum": "316"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Human health and social work activities",
+    "sum": "405"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "75"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Other service activities",
+    "sum": "77"
+  },
+  {
+    "Location": "South West",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "16"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Primary and utilities",
+    "sum": "40"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Manufacturing",
+    "sum": "71"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Construction",
+    "sum": "54"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "29"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "64"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Transportation and storage",
+    "sum": "26"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Accommodation and food service activities",
+    "sum": "54"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Information and communication",
+    "sum": "12"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Financial and insurance activities",
+    "sum": "15"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Real estate activities",
+    "sum": "8"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "34"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Adminstative and support service activities",
+    "sum": "26"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "52"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Education",
+    "sum": "75"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Human health and social work activities",
+    "sum": "111"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "21"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Other service activities",
+    "sum": "22"
+  },
+  {
+    "Location": "Wales",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "3"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Primary and utilities",
+    "sum": "143"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Manufacturing",
+    "sum": "210"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Construction",
+    "sum": "190"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "95"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "248"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Transportation and storage",
+    "sum": "122"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Accommodation and food service activities",
+    "sum": "169"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Information and communication",
+    "sum": "76"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Financial and insurance activities",
+    "sum": "102"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Real estate activities",
+    "sum": "23"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "162"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Adminstative and support service activities",
+    "sum": "118"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "207"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Education",
+    "sum": "251"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Human health and social work activities",
+    "sum": "410"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "77"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Other service activities",
+    "sum": "91"
+  },
+  {
+    "Location": "Scotland",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "12"
+  },
+  {
+    "Location": "",
+    "Industry": "",
+    "sum": ""
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Primary and utilities",
+    "sum": "35"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Manufacturing",
+    "sum": "88"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Construction",
+    "sum": "63"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Wholesale (including motor trades)",
+    "sum": "32"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Retail (excluding motor trades)",
+    "sum": "76"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Transportation and storage",
+    "sum": "35"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Accommodation and food service activities",
+    "sum": "38"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Information and communication",
+    "sum": "24"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Financial and insurance activities",
+    "sum": "30"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Real estate activities",
+    "sum": "5"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Professional, scientific and technical activities",
+    "sum": "48"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Adminstative and support service activities",
+    "sum": "33"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Public administration and defence; compulsory social security",
+    "sum": "72"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Education",
+    "sum": "77"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Human health and social work activities",
+    "sum": "113"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Arts, entertainment and recreation",
+    "sum": "14"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Other service activities",
+    "sum": "33"
+  },
+  {
+    "Location": "Northern Ireland",
+    "Industry": "Any other industry or industry unknown",
+    "sum": "37"
+  }
+]
